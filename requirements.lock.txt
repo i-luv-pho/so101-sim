@@ -1,0 +1,12 @@
+glfw==2.11.0
+imageio==2.38.2
+imageio-ffmpeg==0.8.1
+mujoco==4.0.1
+mujoco-core==4.0.1
+mujoco-studio==4.0.1
+mujoco-studio-wasm==4.0.1
+numpy==2.5.5
+pillow==13.0.0
+psutil==7.2.2
+pyopengl==3.1.10
+websockets==17.4
